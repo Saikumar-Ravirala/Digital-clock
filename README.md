@@ -21,7 +21,7 @@ Here’s how the digital clock looks in action:
 ![24-Hour Mode](Digital_24_Demo_SS.JPG)
 
 ### 🕰️ 12-Hour Mode
-![12-Hour Mode](Digital_24_Demo_SS.JPG)
+![12-Hour Mode](Digital_12_Demo_SS.JPG)
 
 
 ## 🛠 How It Works
